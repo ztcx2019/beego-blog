@@ -8,3 +8,4 @@ beego/bootstrp/sqlite/testblog
 4，解压缩至beego项目目录
 5，构建beego项目
 6，运行
+登录账号：stars123456 密码：123456
